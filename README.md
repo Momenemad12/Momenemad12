@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Momen Emad <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-🎨 A passionate **Front-End Developer** who loves creating **beautiful, responsive websites** and **user-friendly interfaces**.  
-🌱 Currently learning **advanced JavaScript, frameworks, and full-stack concepts**.  
+🎨 A passionate **Front-End Developer** who loves creating beautiful, responsive websites and user-friendly interfaces.  
+🌱 Currently focusing on **React**, building advanced interfaces, integrating with **APIs**, and expanding knowledge into **Full-Stack concepts**.  
 🤝 Always open to collaborating on **front-end projects** and creative ideas.  
 
 ---
