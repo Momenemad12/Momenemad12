@@ -8,14 +8,12 @@
 
 ## 📫 Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Momen%20Emad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momen-emad-3651b2294/)](https://www.linkedin.com/in/momen-emad-3651b2294/)
+[![Linkedin Badge](https://img.shields.io/badge/-Momen%20Emad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momen-emad-3651b2294/)](https://www.linkedin.com/in/momen-emad-3651b2294/)  
 [![Gmail Badge](https://img.shields.io/badge/-momene937@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:momene937@gmail.com)](mailto:momene937@gmail.com)
 
 ---
 
-## 🛠️ Skills
-
-## ⚡ Technologies
+## 🛠️ Skills & Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -35,20 +33,36 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Momenemad12&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+## 🛠️ Tools
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Momenemad12.Momenemad12)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
+---
+
+## 📚 Currently Learning
+
+- Advanced React (Hooks, Context API, Router)  
+- API Integration (fetch & Axios)  
+- Responsive UI with TailwindCSS  
+
+---
 
 ## 💻 Projects
 
-- **Pepsi Web Page** — A landing page for Pepsi using HTML & CSS.  
-- **Food Lover Website** — A responsive food-themed website built with modern web design techniques.  
+- **[Pepsi Web Page](https://github.com/Momenemad12/pepsi-landing)** — A landing page for Pepsi using HTML & CSS.  
+- **[Food Lover Website](https://github.com/Momenemad12/food-lover)** — A responsive food-themed website built with modern web design techniques.  
+
+---
+
+## ⚡ Fun Fact
+I love mixing design and coding — making websites that not only work but also look awesome! 🎨💻
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Momenemad12&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Momenemad12&count_private=true&show_icons=true&include_all_commits=true&theme=radical)  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Momenemad12.Momenemad12)
