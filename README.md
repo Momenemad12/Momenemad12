@@ -1,12 +1,46 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## 👋 Hi there, I'm Momen Emad <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+🎨 A passionate **Front-End Developer** who loves creating **beautiful, responsive websites** and **user-friendly interfaces**.  
+🌱 Currently learning **advanced JavaScript, frameworks, and full-stack concepts**.  
+🤝 Always open to collaborating on **front-end projects** and creative ideas.  
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+---
+
+## 📫 Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Momen%20Emad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momen-emad-3651b2294/)](https://www.linkedin.com/in/momen-emad-3651b2294/)
+[![Gmail Badge](https://img.shields.io/badge/-momene937@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:momene937@gmail.com)](mailto:momene937@gmail.com)
+
+---
+
+## 🛠️ Skills
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Ajax](https://img.shields.io/badge/-Ajax-008080?style=flat-square)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm)
+
+---
+
+## 💻 Projects
+
+- **Pepsi Web Page** — A landing page for Pepsi using HTML & CSS.  
+- **Food Lover Website** — A responsive food-themed website built with modern web design techniques.  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Momenemad12&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Momenemad12.Momenemad12)
 
 ## ⚡ Technologies
 
