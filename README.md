@@ -8,8 +8,6 @@
 
 ## 📫 Connect with me
 
-## 📫 Connect with me
-
 [![Linkedin Badge](https://img.shields.io/badge/-Momen%20Emad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momen-emad-3651b2294/)](https://www.linkedin.com/in/momen-emad-3651b2294/)  
 [![Gmail Badge](https://img.shields.io/badge/-momene937@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:momene937@gmail.com)](mailto:momene937@gmail.com)  
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wsend.co/201022366630)](https://wsend.co/201022366630)
